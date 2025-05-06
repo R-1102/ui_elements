@@ -1,16 +1,14 @@
-# ui_elements
+# Flutter Number Grid
 
-A new Flutter project.
+This is a basic Flutter application that displays a 2x2 grid of containers numbered from 1 to 4. The layout is built using simple `Column` and `Row` widgets along with `Container` for styling.
 
-## Getting Started
+## 🛠️ Features
 
-This project is a starting point for a Flutter application.
+- Stateless and Stateful widgets structure.
+- Simple layout using Column and Row.
+- Basic styling with `Container` and `BoxDecoration`.
+- AppBar with a black background.
 
-A few resources to get you started if this is your first Flutter project:
+  ## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ![Screenshot_20250506_115807](https://github.com/user-attachments/assets/71446cf0-60a3-4abd-a524-025c8e5d64bc)
